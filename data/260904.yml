@@ -1,0 +1,56 @@
+about:
+  description: A TUI for controlling and monitoring Framework Computers hardware built in Rust
+  license: MIT
+  homepage: 
+  head: e8b1da4
+  archived: false
+  latestVersion: v0.8.5
+  collectedAt: 2026-09-04T04:58:14Z
+timeline:
+  created: 2025-08-15
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-02
+popularity:
+  star: 353
+  watcher: 3
+  fork: 15
+  release: 28
+  contributor: 8
+  pullRequest: 8
+  issue: 31
+language:
+  Rust: 120113
+totalLine: 120113
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 2
+    commit: 1
+  last90d:
+    since: 2026-06-06
+    release: 2
+    mergedPR: 21
+    openPR: 0
+    closedIssue: 0
+    openIssue: 2
+    commit: 21
+  last180d:
+    since: 2026-03-08
+    release: 5
+    mergedPR: 29
+    openPR: 0
+    closedIssue: 0
+    openIssue: 2
+    commit: 29
+  last360d:
+    since: 2025-09-09
+    release: 25
+    mergedPR: 87
+    openPR: 1
+    closedIssue: 21
+    openIssue: 10
+    commit: 87
