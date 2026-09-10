@@ -12,6 +12,16 @@ A TUI for controlling and monitoring Framework Computers hardware built in Rust
 x install framework-tool-tui
 ```
 
+## Code insight
+
+Total: **3,143** lines of code across **26** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 3,097 | 70 | 464 | 20 |
+| Toml | 46 | 0 | 6 | 2 |
+| Markdown | 0 | 334 | 115 | 4 |
+
 ## Source
 
 - **Upstream**: <https://github.com/grouzen/framework-tool-tui>
@@ -23,17 +33,9 @@ x install framework-tool-tui
 - **Last commit**: 2026-08-29
 - **Assets in release**: 3
 
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [framework-tool-tui-v0.8.5-x86_64-pc-windows-msvc.zip](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-pc-windows-msvc.zip) | 629.2 KiB | `native/win/x64` |
-| [framework-tool-tui-v0.8.5-x86_64-unknown-freebsd.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-unknown-freebsd.tar.gz) | 1.0 MiB | `native/linux/x64` |
-| [framework-tool-tui-v0.8.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-unknown-linux-gnu.tar.gz) | 1.0 MiB | `native/linux/x64/glibc` |
-
 ## Popularity
 
-- **Stars**: 355 · **Forks**: 15 · **Open issues**: 31 · **Contributors**: 8
+- **Stars**: 356 · **Forks**: 15 · **Open issues**: 31 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -44,18 +46,29 @@ x install framework-tool-tui
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 2 | 1 |
+| last60d | 2026-07-12 | 1 | 8 | 1 | 0 | 2 | 8 |
 | 90d | 2026-06-12 | 2 | 21 | 1 | 0 | 2 | 21 |
+| last180d | 2026-03-14 | 5 | 28 | 1 | 0 | 2 | 23 |
 | 360d | 2025-09-15 | 25 | 87 | 2 | 21 | 10 | 87 |
+| last720d | 2024-09-20 | 28 | 100 | 2 | 21 | 10 | 110 |
 
-## Code size
+## Release assets
 
-Total: **3,143** lines of code across **26** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [framework-tool-tui-v0.8.5-x86_64-pc-windows-msvc.zip](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-pc-windows-msvc.zip) | 629.2 KiB | `native/win/x64` |
+| [framework-tool-tui-v0.8.5-x86_64-unknown-freebsd.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-unknown-freebsd.tar.gz) | 1.0 MiB | `native/linux/x64` |
+| [framework-tool-tui-v0.8.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-unknown-linux-gnu.tar.gz) | 1.0 MiB | `native/linux/x64/glibc` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 3,097 | 70 | 464 | 20 |
-| Toml | 46 | 0 | 6 | 2 |
-| Markdown | 0 | 334 | 115 | 4 |
+## Distribution status
+
+Reported by **19** distros on [repology.org](https://repology.org/project/framework-tool-tui). **8** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.8.5` | ✅ latest |
+| Nix unstable | `0.8.5` | ✅ latest |
+| Alpine edge | `0.7.6` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -66,4 +79,4 @@ Install metadata for framework-tool-tui lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:43:19Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:36:59Z._
