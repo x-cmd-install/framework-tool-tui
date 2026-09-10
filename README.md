@@ -22,7 +22,14 @@ x install framework-tool-tui
 - **Latest**: `v0.8.5` (2026-08-02)
 - **Last commit**: 2026-08-29
 - **Assets in release**: 3
-- **Published**: 2026-08-02T20:25:29Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [framework-tool-tui-v0.8.5-x86_64-pc-windows-msvc.zip](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-pc-windows-msvc.zip) | 629.2 KiB | `native/win/x64` |
+| [framework-tool-tui-v0.8.5-x86_64-unknown-freebsd.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-unknown-freebsd.tar.gz) | 1.0 MiB | `native/linux/x64` |
+| [framework-tool-tui-v0.8.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-unknown-linux-gnu.tar.gz) | 1.0 MiB | `native/linux/x64/glibc` |
 
 ## Popularity
 
@@ -55,8 +62,8 @@ Total: **3,143** lines of code across **26** files in the top 5 languages.
 Install metadata for framework-tool-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `framework-tool-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/framework-tool-tui.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/framework-tool-tui.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:44:34Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:43:19Z._
