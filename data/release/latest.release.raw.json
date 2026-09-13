@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 644297,
       "digest": "sha256:b1fe1801a48a0c6c3a38a7d5fe010e18d5524f46cf7e5e183e895dc3f0a1cb62",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-02T20:29:13Z",
       "updated_at": "2026-08-02T20:29:13Z",
       "browser_download_url": "https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-pc-windows-msvc.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1060861,
       "digest": "sha256:b7a850ea30a686af9197052e57e0890ad4da249757566048130da30282847edb",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-02T20:29:22Z",
       "updated_at": "2026-08-02T20:29:23Z",
       "browser_download_url": "https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-unknown-freebsd.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1071356,
       "digest": "sha256:811cf29997094558873f30901834bdffb33b06d0134f8281ec7e93eee57bb0e5",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-08-02T20:27:22Z",
       "updated_at": "2026-08-02T20:27:23Z",
       "browser_download_url": "https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-unknown-linux-gnu.tar.gz"
