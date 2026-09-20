@@ -4,7 +4,7 @@
 
 A TUI for controlling and monitoring Framework Computers hardware built in Rust
 
-![framework-tool-tui](https://repo.x-cmd.io/framework-tool-tui.svg)
+[![x-cmd/install — framework-tool-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/framework-tool-tui.svg)](https://x-cmd.com/install/framework-tool-tui)
 
 ## Install
 
@@ -45,12 +45,12 @@ Total: **3,143** lines of code across **26** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 2 | 1 |
-| last60d | 2026-07-20 | 1 | 5 | 2 | 0 | 2 | 5 |
-| 90d | 2026-06-20 | 2 | 21 | 2 | 0 | 2 | 21 |
-| last180d | 2026-03-22 | 2 | 21 | 2 | 0 | 2 | 21 |
-| 360d | 2025-09-23 | 25 | 87 | 3 | 21 | 10 | 87 |
-| last720d | 2024-09-28 | 28 | 100 | 3 | 21 | 10 | 110 |
+| 30d | 2026-08-21 | 0 | 0 | 2 | 0 | 2 | 1 |
+| last60d | 2026-07-22 | 1 | 5 | 2 | 0 | 2 | 5 |
+| 90d | 2026-06-22 | 2 | 21 | 2 | 0 | 2 | 13 |
+| last180d | 2026-03-24 | 2 | 21 | 2 | 0 | 2 | 21 |
+| 360d | 2025-09-25 | 25 | 87 | 3 | 21 | 10 | 81 |
+| last720d | 2024-09-30 | 28 | 100 | 3 | 21 | 10 | 110 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for framework-tool-tui lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:41:40Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:03:55Z._
