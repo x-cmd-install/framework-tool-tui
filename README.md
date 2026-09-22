@@ -35,22 +35,22 @@ Total: **3,143** lines of code across **26** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 356 · **Forks**: 15 · **Open issues**: 31 · **Contributors**: 8
+- **Stars**: 356 · **Forks**: 16 · **Open issues**: 31 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 100 · **Open PRs**: 3 · **Closed issues**: 21 · **Open issues**: 10 · **Commits**: 110
+- **Releases**: 28 · **Merged PRs**: 100 · **Open PRs**: 4 · **Closed issues**: 21 · **Open issues**: 10 · **Commits**: 110
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 2 | 0 | 2 | 1 |
-| last60d | 2026-07-23 | 1 | 5 | 2 | 0 | 2 | 5 |
-| 90d | 2026-06-23 | 2 | 21 | 2 | 0 | 2 | 13 |
-| last180d | 2026-03-25 | 2 | 21 | 2 | 0 | 2 | 21 |
-| 360d | 2025-09-26 | 25 | 87 | 3 | 21 | 10 | 81 |
-| last720d | 2024-10-01 | 28 | 100 | 3 | 21 | 10 | 110 |
+| 30d | 2026-08-23 | 0 | 0 | 3 | 0 | 2 | 1 |
+| last60d | 2026-07-24 | 1 | 5 | 3 | 0 | 2 | 5 |
+| 90d | 2026-06-24 | 2 | 21 | 3 | 0 | 2 | 13 |
+| last180d | 2026-03-26 | 2 | 21 | 3 | 0 | 2 | 21 |
+| 360d | 2025-09-27 | 25 | 85 | 4 | 21 | 10 | 81 |
+| last720d | 2024-10-02 | 28 | 100 | 4 | 21 | 10 | 110 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for framework-tool-tui lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:59:05Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:50:39Z._
