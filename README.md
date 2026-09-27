@@ -39,18 +39,18 @@ Total: **3,143** lines of code across **26** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 100 · **Open PRs**: 4 · **Closed issues**: 21 · **Open issues**: 10 · **Commits**: 110
+- **Releases**: 28 · **Merged PRs**: 100 · **Open PRs**: 5 · **Closed issues**: 21 · **Open issues**: 10 · **Commits**: 110
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 3 | 0 | 2 | 1 |
-| last60d | 2026-07-28 | 1 | 5 | 3 | 0 | 2 | 5 |
-| 90d | 2026-06-28 | 2 | 12 | 3 | 0 | 2 | 13 |
-| last180d | 2026-03-30 | 2 | 21 | 3 | 0 | 2 | 21 |
-| 360d | 2025-10-01 | 22 | 81 | 4 | 21 | 10 | 81 |
-| last720d | 2024-10-06 | 28 | 100 | 4 | 21 | 10 | 110 |
+| 30d | 2026-08-28 | 0 | 0 | 4 | 0 | 2 | 0 |
+| last60d | 2026-07-29 | 1 | 5 | 4 | 0 | 2 | 1 |
+| 90d | 2026-06-29 | 2 | 12 | 4 | 0 | 2 | 8 |
+| last180d | 2026-03-31 | 2 | 21 | 4 | 0 | 2 | 21 |
+| 360d | 2025-10-02 | 22 | 81 | 5 | 21 | 10 | 81 |
+| last720d | 2024-10-07 | 28 | 100 | 5 | 21 | 10 | 110 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for framework-tool-tui lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:55:50Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:18:32Z._
