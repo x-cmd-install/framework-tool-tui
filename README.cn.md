@@ -14,11 +14,11 @@ x install framework-tool-tui
 
 ## 代码洞察
 
-合计: **3,143** 行代码（覆盖前 5 种语言、共 **26** 个文件）。
+合计: **3,204** 行代码（覆盖前 5 种语言、共 **26** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 3,097 | 70 | 464 | 20 |
+| Rust | 3,158 | 70 | 476 | 20 |
 | Toml | 46 | 0 | 6 | 2 |
 | Markdown | 0 | 334 | 115 | 4 |
 
@@ -29,36 +29,36 @@ x install framework-tool-tui
 
 ## 发布
 
-- **最新版本**: `v0.8.5` (2026-08-02)
-- **最近提交**: 2026-08-29
+- **最新版本**: `v0.8.6` (2026-09-27)
+- **最近提交**: 2026-09-27
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 356 · **Fork**: 16 · **开放 issue**: 31 · **贡献者**: 8
+- **Star**: 356 · **Fork**: 16 · **开放 issue**: 31 · **贡献者**: 9
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 100 · **开放 PR**: 5 · **已关闭 issue**: 21 · **开放 issue**: 10 · **提交数**: 110
+- **发布数**: 29 · **已合并 PR**: 104 · **开放 PR**: 1 · **已关闭 issue**: 22 · **开放 issue**: 9 · **提交数**: 114
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 4 | 0 | 2 | 0 |
-| last60d | 2026-07-29 | 1 | 5 | 4 | 0 | 2 | 1 |
-| 90d | 2026-06-29 | 2 | 12 | 4 | 0 | 2 | 8 |
-| last180d | 2026-03-31 | 2 | 21 | 4 | 0 | 2 | 21 |
-| 360d | 2025-10-02 | 22 | 81 | 5 | 21 | 10 | 81 |
-| last720d | 2024-10-07 | 28 | 100 | 5 | 21 | 10 | 110 |
+| 30d | 2026-08-29 | 1 | 4 | 0 | 1 | 1 | 0 |
+| last60d | 2026-07-30 | 2 | 9 | 0 | 1 | 1 | 0 |
+| 90d | 2026-06-30 | 3 | 15 | 0 | 1 | 1 | 0 |
+| last180d | 2026-04-01 | 3 | 25 | 0 | 1 | 1 | 0 |
+| 360d | 2025-10-03 | 23 | 85 | 1 | 22 | 9 | 0 |
+| last720d | 2024-10-08 | 29 | 104 | 1 | 22 | 9 | 114 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [framework-tool-tui-v0.8.5-x86_64-pc-windows-msvc.zip](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-pc-windows-msvc.zip) | 629.2 KiB | `native/win/x64` |
-| [framework-tool-tui-v0.8.5-x86_64-unknown-freebsd.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-unknown-freebsd.tar.gz) | 1.0 MiB | `native/linux/x64` |
-| [framework-tool-tui-v0.8.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.5/framework-tool-tui-v0.8.5-x86_64-unknown-linux-gnu.tar.gz) | 1.0 MiB | `native/linux/x64/glibc` |
+| [framework-tool-tui-v0.8.6-x86_64-pc-windows-msvc.zip](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.6/framework-tool-tui-v0.8.6-x86_64-pc-windows-msvc.zip) | 634.3 KiB | `native/win/x64` |
+| [framework-tool-tui-v0.8.6-x86_64-unknown-freebsd.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.6/framework-tool-tui-v0.8.6-x86_64-unknown-freebsd.tar.gz) | 1.0 MiB | `native/linux/x64` |
+| [framework-tool-tui-v0.8.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.6/framework-tool-tui-v0.8.6-x86_64-unknown-linux-gnu.tar.gz) | 1.0 MiB | `native/linux/x64/glibc` |
 
 ## 改进这些数据
 
@@ -69,4 +69,4 @@ framework-tool-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260927.yml` · 2026-09-27T05:18:32Z._
+_数据快照: `data/card/260928.yml` · 2026-09-28T05:25:22Z._
