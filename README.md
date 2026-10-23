@@ -45,12 +45,12 @@ Total: **3,204** lines of code across **26** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 2 | 1 | 0 | 0 | 5 |
-| last60d | 2026-08-23 | 1 | 5 | 1 | 1 | 1 | 6 |
-| 90d | 2026-07-24 | 2 | 10 | 1 | 1 | 1 | 10 |
-| last180d | 2026-04-25 | 3 | 26 | 1 | 1 | 1 | 26 |
-| 360d | 2025-10-27 | 16 | 73 | 2 | 12 | 5 | 73 |
-| last720d | 2024-11-01 | 29 | 105 | 2 | 22 | 9 | 115 |
+| 30d | 2026-09-23 | 1 | 2 | 1 | 0 | 0 | 5 |
+| last60d | 2026-08-24 | 1 | 5 | 1 | 1 | 1 | 6 |
+| 90d | 2026-07-25 | 2 | 10 | 1 | 1 | 1 | 10 |
+| last180d | 2026-04-26 | 3 | 26 | 1 | 1 | 1 | 26 |
+| 360d | 2025-10-28 | 16 | 73 | 2 | 12 | 5 | 73 |
+| last720d | 2024-11-02 | 29 | 105 | 2 | 22 | 9 | 115 |
 
 ## Release assets
 
@@ -59,6 +59,16 @@ Total: **3,204** lines of code across **26** files in the top 5 languages.
 | [framework-tool-tui-v0.8.6-x86_64-pc-windows-msvc.zip](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.6/framework-tool-tui-v0.8.6-x86_64-pc-windows-msvc.zip) | 634.3 KiB | `native/win/x64` |
 | [framework-tool-tui-v0.8.6-x86_64-unknown-freebsd.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.6/framework-tool-tui-v0.8.6-x86_64-unknown-freebsd.tar.gz) | 1.0 MiB | `native/linux/x64` |
 | [framework-tool-tui-v0.8.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/grouzen/framework-tool-tui/releases/download/v0.8.6/framework-tool-tui-v0.8.6-x86_64-unknown-linux-gnu.tar.gz) | 1.0 MiB | `native/linux/x64/glibc` |
+
+## Distribution status
+
+Reported by **23** distros on [repology.org](https://repology.org/project/framework-tool-tui). **9** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.8.6` | ✅ latest |
+| Nix unstable | `0.8.6` | ✅ latest |
+| Alpine edge | `0.7.6` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -69,4 +79,4 @@ Install metadata for framework-tool-tui lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:39:25Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:44:25Z._
