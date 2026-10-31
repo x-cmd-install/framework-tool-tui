@@ -45,12 +45,12 @@ Total: **3,204** lines of code across **26** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-08-31 | 1 | 5 | 1 | 1 | 1 | 5 |
-| 90d | 2026-08-01 | 2 | 10 | 1 | 1 | 1 | 6 |
-| last180d | 2026-05-03 | 3 | 26 | 1 | 1 | 1 | 26 |
-| 360d | 2025-11-04 | 15 | 70 | 2 | 8 | 5 | 70 |
-| last720d | 2024-11-09 | 29 | 105 | 2 | 22 | 9 | 115 |
+| 30d | 2026-10-01 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-09-01 | 1 | 5 | 1 | 1 | 1 | 5 |
+| 90d | 2026-08-02 | 2 | 6 | 1 | 1 | 1 | 6 |
+| last180d | 2026-05-04 | 3 | 26 | 1 | 1 | 1 | 26 |
+| 360d | 2025-11-05 | 15 | 70 | 2 | 8 | 5 | 70 |
+| last720d | 2024-11-10 | 29 | 105 | 2 | 22 | 9 | 115 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for framework-tool-tui lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:51:17Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:35:59Z._
