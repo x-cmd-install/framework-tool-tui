@@ -1,3 +1,16 @@
+- repo: gentoo
+  srcname: app-laptop/framework-tool-tui
+  visiblename: app-laptop/framework-tool-tui
+  version: 0.8.0
+  origversion: null
+  status: legacy
+  summary: TUI for controlling and monitoring Framework Computers hardware built in Rust
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - MIT BSD-2 BSD MIT MPL-2.0 Unicode-3.0 ZLIB || ( Apache-2.0 Boost-1.0 ) MIT
+  categories:
+    - app-laptop
 - repo: alpine_edge
   subrepo: testing
   srcname: framework-tool-tui
@@ -41,9 +54,9 @@
   srcname: sysutils/framework-tool-tui
   binname: framework-tool-tui
   visiblename: sysutils/framework-tool-tui
-  version: 0.8.5
-  origversion: 0.8.5_2
-  status: outdated
+  version: 0.8.6
+  origversion: null
+  status: newest
   summary: TUI for Framework Computer System Utility
   maintainers:
     - lme@freebsd.org
@@ -120,19 +133,6 @@
     - Unicode-DFS-2016
     - WTFPL-2
     - ZLIB
-  categories:
-    - app-laptop
-- repo: gentoo
-  srcname: app-laptop/framework-tool-tui
-  visiblename: app-laptop/framework-tool-tui
-  version: 0.8.0
-  origversion: null
-  status: legacy
-  summary: TUI for controlling and monitoring Framework Computers hardware built in Rust
-  maintainers:
-    - chutzpah@gentoo.org
-  licenses:
-    - MIT BSD-2 BSD MIT MPL-2.0 Unicode-3.0 ZLIB || ( Apache-2.0 Boost-1.0 ) MIT
   categories:
     - app-laptop
 - repo: homebrew
